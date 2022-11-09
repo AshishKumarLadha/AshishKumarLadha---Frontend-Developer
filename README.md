@@ -1,3 +1,6 @@
+#About the project
+It is a SpaceX website made using ReactJS which shows variousb information regarding SpaceX technologies and it uses RestAPI for fetching data. TailwindCSS is included to make the website look attractive. The website has a search form and different banners like Capsules, Dragons, Launches, Launchpads, Starlink, Rockets etc.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
