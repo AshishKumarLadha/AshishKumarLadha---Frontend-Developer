@@ -4,7 +4,7 @@
 * [ ] Have you checked to ensure there aren't other open [PullRequests](../../../pulls) for change? No.
 
 ### New Feature Submissions:
-1. The website runs succesfully and smoothly.
+1. The website can run succesfully and smoothly.
 2. The website has all the components to make it a proper website that includes ReactJs, TailwindCSS, RestAPI etc.
 
 ### Website Description.
